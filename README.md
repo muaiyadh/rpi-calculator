@@ -14,9 +14,15 @@ This project was my first attempt to use Autodesk EAGLE.
 * Ability to easily change between different Raspberry Pi models.
 
 ## Current Prototype:
+![Front of the RPi Calculator](./imgs/image.UPF2Z1.png)
 
 (The terminal command was written entirely using the onboard buttons).
 
+![Back of the RPi Calculator](./imgs/image.OI2A01.png)
+
+
 Pictures of the PCB design from Autodesk EAGLE:
 
+![Front PCB design](./imgs/image.K0M8Z1.png)
 
+![Back PCB design](./imgs/image.ZIXI01.png)
